@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mock Interview"
+  short_description: "Run a realistic mock interview from your resume"
+  default_prompt: "Use $mock-interview to run a realistic interview based on my resume and target role."
